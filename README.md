@@ -34,19 +34,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Calcium-Ion&theme=radical&hide_border=true&background=0D1117&stroke=FF6AC2&ring=FF6AC2&fire=FF6AC2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6AC2&sideLabels=FF6AC2&dates=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Calcium-Ion&theme=buefy&hide_border=true&stroke=FF6AC2&ring=FF6AC2&fire=FF6AC2&currStreakLabel=FF6AC2&sideLabels=FF6AC2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calcium-Ion&theme=buefy&hide_border=true&stroke=FF6AC2&ring=FF6AC2&fire=FF6AC2&currStreakLabel=FF6AC2&sideLabels=FF6AC2" alt="Calcium-Ion's streak" />
-  </picture>
-</div>
 
 ## 🧸 我喜欢用的小工具 🧸
 
@@ -94,20 +81,6 @@
 </div>
 
 ## 🌈 我的活动 🌈
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=Calcium-Ion&theme=radical&no-frame=true&no-bg=true&column=7"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=Calcium-Ion&theme=flat&no-frame=true&column=7&title_color=FF6AC2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=Calcium-Ion&theme=flat&no-frame=true&column=7&title_color=FF6AC2" alt="Calcium-Ion's trophies" />
-  </picture>
-</div>
 
 <div align="center">
   <picture>
