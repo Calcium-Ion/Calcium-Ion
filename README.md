@@ -80,22 +80,6 @@
   </a>
 </div>
 
-## 🌈 我的活动 🌈
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Calcium-Ion&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=FF6AC2&point=FFFFFF&color=FFFFFF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Calcium-Ion&theme=minimal&hide_border=true&color=FF6AC2&line=FF6AC2&point=FF6AC2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Calcium-Ion&theme=minimal&hide_border=true&color=FF6AC2&line=FF6AC2&point=FF6AC2" alt="Calcium-Ion's contribution graph" />
-  </picture>
-</div>
-
 <!--
 **Calcium-Ion/Calcium-Ion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
